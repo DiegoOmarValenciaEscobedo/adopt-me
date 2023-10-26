@@ -1,0 +1,73 @@
+body {
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+#divCenterElement{
+    position: absolute;
+    top: 22%;
+    left: 6%;
+    width: 100%;
+    height: 450px;
+    border-radius: 2%;
+}
+
+#longDivCenterElement{
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    width: 100%;
+    height: 420px;
+}
+
+
+ #divLeftElement{
+    width: 30%;
+    height: 70%;
+    float:left;
+}
+
+#divLeftElement img {
+    position: relative;
+    top: -25px; /* ajustar los valores para mover la imagen */
+    left: -5px;
+    width: 50%px;
+    height: 50%px;
+    border-radius: 10%;
+    margin: 20%;
+}
+
+#divRightElement{
+    width: 60%; 
+    float:right;  
+    text-align: center;
+ }
+
+#divLeftElementInCard{
+  margin-top: 100px;
+    width: 50%; 
+    float:left;
+}
+
+#divRightElementInCard{
+  margin-top: 100px;
+    width: 50%; 
+    float:right;
+}
+
+#divLongLeftElement{
+    width: 40%;
+    height: 100%; 
+    float:left; 
+}
+    
+#divLongRightElement{
+    width: 50%; 
+    float:right;  
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+.cover-container {
+  max-width: 30em;
+}
+
+.btnindex{
+  margin: 10px;
+}
+
+footer{
+  bottom: 0px;
+  position: absolute;
+  margin-top:0px;
+  width:100%;
+  height:40px;
+  text-align: center;
+}

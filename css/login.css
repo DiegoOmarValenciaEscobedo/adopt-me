@@ -1,0 +1,35 @@
+.form-su{
+    text-align: center;
+}
+
+.container-center{
+    width:40%;
+    display: flex;
+    margin-top: 15px;
+    box-shadow: 0 6px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 30px;
+    position: absolute;
+    left: 30%;
+}
+.container-down{
+    width:40%;
+    display: flex;
+    margin-top: 490px;
+    box-shadow: 0 6px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 30px;
+    position: absolute;
+    left: 30%;
+}
+  
+label.error {
+    color: red;
+    font-size: 1rem;
+    display: block;
+    margin-top: 5px;
+}
+  
+input.error {
+    border: 1px dashed red;
+    font-weight: 300;
+    color: red;
+}
